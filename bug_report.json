@@ -1,1 +1,11 @@
-
+{
+"Title": "Missing block name and button name in this block on the page [Anti-money laundering] ",
+"Steps": [
+"Navigate to capital.com",
+"Hover over Menu section [More]",
+"Click Menu item [Anti-money laundering]",
+"Scroll to the block ""Better safe than sorry!",
+],
+"Actual Result": "Missing block name and button name in this block",
+"Expected Result": "The block and the button in this block have names"
+}
